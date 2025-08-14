@@ -11,7 +11,7 @@ O conteúdo está organizado de acordo com as seções do curso, incluindo os ex
 Este repositório tem como objetivo registrar meu aprendizado em Java, Programação Orientada a Objetos, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL e MongoDB, servindo como material de estudo e referência futura.
 
 ## &#x1F4C1; Seções do Curso
-- Seção 01 - Estruturas Sequenciais
+- Seção 01 - [Estruturas Sequenciais](https://github.com/GustavoFreitasRod/curso-java-nelio-alves/tree/main/estruturas-sequenciais)
 - Seção 02 - Estruturas Condicionais
 - Seção 03 - Estruturas Repetitivas 
 - Seção 04 - Outros Tópicos Básicos sobre Java
